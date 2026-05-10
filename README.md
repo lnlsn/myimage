@@ -7,3 +7,7 @@ Quietly Revolutionized C"
 ## Author
 
 - LnLsn<to@lnlsn.xyz>
+
+## License
+
+TODO: Check with the original author.
